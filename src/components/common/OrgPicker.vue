@@ -21,7 +21,7 @@
         <div class="org-items" :style="type === 'role' ? 'height: 350px':''">
           <el-empty :image-size="100" description="似乎没有数据" v-show="orgs.length === 0"/>
           <div v-for="(org, index) in orgs" :key="index" :class="orgItemClass(org)" @click="selectChange(org)">
-            <el-checkbox v-model="org.selected" :disabled="disableDept(org)"></el-checkbox>
+            <el-checkbox :value="org.selected" @change="selectChange(org)" :disabled="disableDept(org)"></el-checkbox>
             <div v-if="org.type === 'dept'">
               <i class="el-icon-folder-opened"></i>
               <span class="name">{{ org.name }}</span>
