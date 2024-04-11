@@ -7,6 +7,9 @@
 
 [![star](https://gitee.com/willianfu/jw-workflow-engine/badge/star.svg?theme=dark)](https://gitee.com/willianfu/jw-workflow-engine/stargazers) [![fork](https://gitee.com/willianfu/jw-workflow-engine/badge/fork.svg?theme=dark)](https://gitee.com/willianfu/jw-workflow-engine/members) <img src="https://img.shields.io/badge/release-v0.0.1-brightgreen.svg"> <img src="https://shields.io/badge/license-APACHE2.0-blue">
 
+## vue3船新版本开发中
+vue3版本👉 [wflow-web-next](https://gitee.com/willianfu/wflow-web-next)
+
 
 ## 📋 简介
 
