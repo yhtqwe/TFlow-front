@@ -7,9 +7,13 @@
 
 [![star](https://gitee.com/willianfu/jw-workflow-engine/badge/star.svg?theme=dark)](https://gitee.com/willianfu/jw-workflow-engine/stargazers) [![fork](https://gitee.com/willianfu/jw-workflow-engine/badge/fork.svg?theme=dark)](https://gitee.com/willianfu/jw-workflow-engine/members) <img src="https://img.shields.io/badge/release-v0.0.1-brightgreen.svg"> <img src="https://shields.io/badge/license-APACHE2.0-blue">
 
-## vue3船新版本开发中
-vue3版本👉 [wflow-web-next](https://gitee.com/willianfu/wflow-web-next)
+------
 
+## ✨✨✨vue3船新版本开发中
+
+🎈🎈vue3版本 [wflow-web-next](https://gitee.com/willianfu/wflow-web-next)
+
+-----
 
 ## 📋 简介
 
@@ -17,7 +21,7 @@ vue3版本👉 [wflow-web-next](https://gitee.com/willianfu/wflow-web-next)
 
 > 区别于传统Bpmn自带流程设计器，传统设计器晦涩难懂，对于普通企业用户使用门槛偏高，没有经过专业培训根本无从下手，需要相关专业人员辅助来创建流程。而本设计器界面简单，符合普通大众的思维逻辑，易于理解和上手使用。
 
-**注意：** 这是前端设计器部分，配套的工作流后端目前只有pro版本支持
+**注意：** 这是前端设计器部分，配套的工作流后端目前只有[pro版本](http://wflow.willianfu.top/docs/pro/note.html)支持
 
 
 
@@ -25,7 +29,7 @@ vue3版本👉 [wflow-web-next](https://gitee.com/willianfu/wflow-web-next)
 
 |                             微信                             |       QQ       |
 | :----------------------------------------------------------: | :------------: |
-|     扫码或搜索 `willianfu_` 加我微信，备注 `wflow`拉入群     | 1群（已满）: 156972829  2 群：853185510|
+|     扫码或搜索 `willianfu_` 加我微信，备注 `wflow`拉入群     | 1群（已满）: 156972829   2 群：853185510|
 
 
 
@@ -35,7 +39,7 @@ vue3版本👉 [wflow-web-next](https://gitee.com/willianfu/wflow-web-next)
 
  😋  [github地址](https://github.com/willianfu/wflow)  |   [码云gitee](https://gitee.com/willianfu/jw-workflow-engine)
 
-  👉 访问官网： [wflow新官网](http://wflow.willianfu.top) 👈
+  👉 访问官网： [wflow官网](http://wflow.willianfu.top) 👈
 
 
 
@@ -45,56 +49,7 @@ vue3版本👉 [wflow-web-next](https://gitee.com/willianfu/wflow-web-next)
 
 `wflow`  pro版（💰付费） 已经发布，完整的前后端支持功能更强，感兴趣的同学可以访问演示链接进行体验
 
-👉 访问官网： [wflow新官网](http://wflow.willianfu.top) 👈
-
-#### pro版新增功能
-
-- 组件库全面支持`PC + H5自适应移动端 (ElementUI + Vant)`，一次表单设计，分别渲染成两种效果，即时预览
-- 表单支持权限控制，每个节点可以看到不一样的表单，且支持动态设置表单内容字段只读、可编辑、隐藏，审批时能动态修改表单，改变后续流程走向
-- 组件库新增组件，支持表单联动
-  - 省市区选择
-  - 手写签字板
-  - 单行及多行输入框，支持摄像头扫码录入信息
-  - 时间、时间范围选择器
-  - 评分
-  - 地理位置选择，高德地图选位置
-  - 流程关联，可在表单内关联以往发起过的流程
-  - 计算公式，配置一个计算公式，根据其他字段值自动计算本字段结果
-  - Vue容器，能够在线编写Vue代码，生成自定义的组件
-  - Iframe容器，嵌入一个URL页面
-  - 新增几十种常用图标
-  - 更多组件后续增加。。。
-
-- 审批流程回显执行过程，支持附件及评论，流程处理支持评论、同意、驳回、退回、撤销、转交、动态加签
-
-
-**全新工作台面板**
-
-![image-20220813002851111](https://pic.rmb.bdstatic.com/bjh/75bb79771bf78d273917df9495bf35b7.png)
-
- **流程管理** 
-
-![image-20220917085336806](https://dd-static.jd.com/ddimg/jfs/t1/88709/15/33072/150832/63251a92E5e6fda69/47495b56b1080b9e.png)
-
-
-发起审批，左侧表单，右侧显示执行流程步骤，一次设计，根据设备自动适配
-
-![image-20221110153638526.png](https://pic1.58cdn.com.cn/nowater/webim/big/n_v2bdeac686c43b48c4bbc3473b57e28e67.png)
-
-
-
- **预览审批进度** 
-
-![image-20220917085045176](https://dd-static.jd.com/ddimg/jfs/t1/112699/19/29490/422145/632519e9Ee06ee0b0/dfe1943c51fc447a.png)
-
-------
-
-
-
-**支持流程打印**
-
-<img src="http://150.158.162.224/assets/img/image-20221110153859233.8370b76a.png" style="zoom:50%;" />
-
+👉 访问官网： [wflow 官网](http://wflow.willianfu.top) 👈
 
 
 ## 👀开源版界面一览
